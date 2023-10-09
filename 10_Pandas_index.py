@@ -14,5 +14,3 @@ df[df["Type 1"] != "Grass"]
 # to drop old index drop=True
 df.reset_index(drop=True)
 
-minute 36:49
-# %%
